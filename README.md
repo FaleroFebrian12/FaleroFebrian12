@@ -4,11 +4,6 @@
 
 ---
 
-### Currently Working on :
-
-- Clee Ltd. (Founder)
-
----
 
 - 🌱 I’m currently learning to life
 - 📫 How to reach me: by contact me

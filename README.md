@@ -1,16 +1,22 @@
-## Hi there 👋
+![banner](https://trakteer-uploads.sgp1.digitaloceanspaces.com/images/cover/cvr-N30K8BkTq4M2V9onQjM0cTI4xLRHlp9Y1698227025.jpg)
 
-<!--
-**FaleroFebrian12/FaleroFebrian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello There
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working on :
+
+- Clee Ltd. (Founder)
+
+---
+
+- 🌱 I’m currently learning to life
+- 📫 How to reach me: by contact me
+- ⚡ Fun fact: Imma Human
+
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=arsybai">
+<img src="https://streak-stats.demolab.com?user=Arsybai&theme=tokyonight-duo">
+<img src="https://github-profile-trophy.vercel.app/?username=arsybai">
+</details>
